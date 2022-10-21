@@ -1,4 +1,4 @@
-//Project1 - Jonathan Pierotti
+//Treasure MAp Game 
 #include <iostream>
 using namespace std;
 
