@@ -129,7 +129,7 @@ do
   cout<<"1) Update treasure coordinates (row/column)\n";
   cout<<"2) Shift X (N,S,E,W) and unit number\n";
   cout<<"3) Exit program'\n";
-  cout<<"Select: ";
+  cout<<"Select Option 1, 2 or 3: ";
   cin>>option_input;
 
 switch(option_input)
